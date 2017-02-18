@@ -1,2 +1,2 @@
-# codepen
-Solutions to past Google codepen problems (Python)
+# codejam
+Solutions to past Google code jam problems (Python)
